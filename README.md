@@ -8,17 +8,24 @@
 
 # Overveiw
 
-### Proposed Solution
+### Big Idea
+Inclusion
 
-### Problem Statment
+### Challange Statment
+Make it Faster to traveler & citizen to calculate Taxes
 
-# User stories
+
+# Solution concept
+build a platform for citizen & tourist  that can easily calculate Taxes and Zakat
 
 
-# Success Criteria
+# Challange summary
+
 
 
 # Languages
+- Arabic
+- English
 
 
 
@@ -27,8 +34,8 @@
 
 # Team
 
- - Rahaf
- - Nouf
+ - Rahaf Alhejaili
+ - Nouf Alghamdi
 
  
 <!-- MARKDOWN LINKS & IMAGES -->
