@@ -1,7 +1,7 @@
 # Taxes
 
 <div>
-<h3><img align="left" width="100" height="100" src="LogoConverteIT.png"> <br/> CONVERTIT <br/>
+<h3><img align="left" width="100" height="100" src=""> <br/> Taxes <br/>
 <a href="https://drive.google.com/file/d/1urvq2pEDgXkWkEk0aeaOvIN3WadscuR0/view?usp=sharing">Demo</a> <br/> <br/> </h3>   
   </div>   
 
@@ -27,8 +27,9 @@
 
 # Team
 
- #### Coders
- <a href="https://www.linkedin.com/in/randalmuhanna/">Rand AlMuhanna</a> - Haneen Behery 
+ - Rahaf
+ - Nouf
+
  
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
