@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Taxes calculater
+
+  Created by Rahaf Alhejaili on 17/06/1444 AH.
+  
+*/
+"text1" = "حاسبة الضريبة" ;
+"text2" = "حاسبة الزكاة" ;
+"text3" = "السعر" ;
+"text4" = "الضريبة" ;
+"text5" = "آحسب";
+"text6" = "قيمة الضريبة" ;
+"text7" = "السعر شاملاً للضريبة" ;
+"text8" = "المبلغ المراد تزكيته" ;
+"text9" = "مقدار الزكاة" ;
+"text10" = "٠" ;

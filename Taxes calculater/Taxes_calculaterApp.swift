@@ -11,7 +11,8 @@ import SwiftUI
 struct Taxes_calculaterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            splashScreen()
+
         }
     }
 }

@@ -7,18 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2614B201296CAF31006ECF27 /* TaxCalcoulater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2614B200296CAF31006ECF27 /* TaxCalcoulater.swift */; };
+		2614B204296D4501006ECF27 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2614B206296D4501006ECF27 /* Localizable.strings */; };
+		2614B209296F2A57006ECF27 /* splashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2614B208296F2A57006ECF27 /* splashScreen.swift */; };
 		26252BFF2969BA33007DEACF /* Taxes_calculaterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26252BFE2969BA33007DEACF /* Taxes_calculaterApp.swift */; };
 		26252C012969BA33007DEACF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26252C002969BA33007DEACF /* ContentView.swift */; };
 		26252C032969BA33007DEACF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26252C022969BA33007DEACF /* Assets.xcassets */; };
 		26252C062969BA33007DEACF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26252C052969BA33007DEACF /* Preview Assets.xcassets */; };
+		26252C0F296C6321007DEACF /* Segmentedcontroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26252C0E296C6321007DEACF /* Segmentedcontroll.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2614B200296CAF31006ECF27 /* TaxCalcoulater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaxCalcoulater.swift; sourceTree = "<group>"; };
+		2614B205296D4501006ECF27 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2614B207296D4502006ECF27 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2614B208296F2A57006ECF27 /* splashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splashScreen.swift; sourceTree = "<group>"; };
 		26252BFB2969BA33007DEACF /* Taxes calculater.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Taxes calculater.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		26252BFE2969BA33007DEACF /* Taxes_calculaterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Taxes_calculaterApp.swift; sourceTree = "<group>"; };
 		26252C002969BA33007DEACF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		26252C022969BA33007DEACF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26252C052969BA33007DEACF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		26252C0E296C6321007DEACF /* Segmentedcontroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Segmentedcontroll.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +44,9 @@
 		26252BF22969BA33007DEACF = {
 			isa = PBXGroup;
 			children = (
+				26252C0E296C6321007DEACF /* Segmentedcontroll.swift */,
+				2614B200296CAF31006ECF27 /* TaxCalcoulater.swift */,
+				2614B208296F2A57006ECF27 /* splashScreen.swift */,
 				26252BFD2969BA33007DEACF /* Taxes calculater */,
 				26252BFC2969BA33007DEACF /* Products */,
 			);
@@ -55,6 +67,7 @@
 				26252C002969BA33007DEACF /* ContentView.swift */,
 				26252C022969BA33007DEACF /* Assets.xcassets */,
 				26252C042969BA33007DEACF /* Preview Content */,
+				2614B206296D4501006ECF27 /* Localizable.strings */,
 			);
 			path = "Taxes calculater";
 			sourceTree = "<group>";
@@ -109,6 +122,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
 			);
 			mainGroup = 26252BF22969BA33007DEACF;
 			productRefGroup = 26252BFC2969BA33007DEACF /* Products */;
@@ -126,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26252C062969BA33007DEACF /* Preview Assets.xcassets in Resources */,
+				2614B204296D4501006ECF27 /* Localizable.strings in Resources */,
 				26252C032969BA33007DEACF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,12 +152,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2614B209296F2A57006ECF27 /* splashScreen.swift in Sources */,
 				26252C012969BA33007DEACF /* ContentView.swift in Sources */,
 				26252BFF2969BA33007DEACF /* Taxes_calculaterApp.swift in Sources */,
+				26252C0F296C6321007DEACF /* Segmentedcontroll.swift in Sources */,
+				2614B201296CAF31006ECF27 /* TaxCalcoulater.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2614B206296D4501006ECF27 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2614B205296D4501006ECF27 /* en */,
+				2614B207296D4502006ECF27 /* ar */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		26252C072969BA33007DEACF /* Debug */ = {
@@ -195,7 +225,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +279,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;

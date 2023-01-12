@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Taxes calculater
+
+  Created by Rahaf Alhejaili on 17/06/1444 AH.
+  
+*/
+"text1" = "Tax Calculator" ;
+"text2" = "Zakat Calculator" ;
+"text3" = "Price:" ;
+"text4" = "Tax %:" ;
+"text5" = "Calculate";
+"text6" = "Tax amount:" ;
+"text7" = "The Price with tax:" ;
+"text8" = "Money Value:" ;
+"text9" = "Total Zakat:" ;
+"text10" = "0" ;
