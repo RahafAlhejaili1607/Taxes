@@ -26,7 +26,7 @@ build a platform for citizen & tourist  that can easily calculate Taxes and Zak
 
 # Challange summary
 
-<h3><img align="center" width="600" height="400" src="challenge.png"> 
+<h3><img align="center" width="800" height="500" src="challenge.png"> 
 
 # Languages
 - Arabic
